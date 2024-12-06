@@ -1,0 +1,7 @@
+/* src/styles/Navbar.css */
+.navbar-nav .nav-item .nav-link:hover {
+    color: #ff5733; /* Change color on hover */
+    text-decoration: underline; /* Optional underline effect */
+    transition: color 0.3s ease;
+  }
+  
